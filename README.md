@@ -1,2 +1,5 @@
-# coba-belajar-git-4b
-Repo ini berisi tentang belajar kolaborasi tim
+# Absen Belajar Github
+
+Silahkan absen yang sedang belajar github
+
+- [Nama Lengkap] | [NPM]
