@@ -2,4 +2,4 @@
 
 Silahkan absen yang sedang belajar github
 
-- [Nama Lengkap] | [NPM]
+- [Budi Setiawan] | [1910631170012]
